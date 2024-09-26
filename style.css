@@ -39,8 +39,8 @@ section {
 }
 
 .wrapper .container-01 .clock {
-	width: 350px;
-	height: 350px;
+	width: 320px;
+	height: 320px;
   z-index: 1;
 	display: flex;
 	overflow: hidden;
